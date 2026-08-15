@@ -1,0 +1,49 @@
+# ==============================
+# Core LangChain
+# ==============================
+langchain
+langchain-core
+langchain-community
+
+# ==============================
+# Mistral AI Integration
+# ==============================
+langchain-mistralai
+mistralai
+
+# ==============================
+# Tavily Search Tool
+# ==============================
+tavily-python
+
+# ==============================
+# Web Scraping
+# ==============================
+beautifulsoup4
+lxml
+
+# ==============================
+# HTTP Requests
+# ==============================
+requests
+httpx
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Validation / Structured Output
+# ==============================
+pydantic
+
+# ==============================
+# CLI / Better Console Output
+# ==============================
+rich
+
+
+
+
+streamlit
